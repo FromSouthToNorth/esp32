@@ -4,6 +4,3 @@
 - DHT22
 - i2c lcd
 - ssd1306
-
-# esp32
-# esp32
